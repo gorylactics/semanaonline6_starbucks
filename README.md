@@ -1,3 +1,7 @@
+la direccion del repositorio es https://github.com/gorylactics/semanaonline6_starbucks
+
+
+
 ###### taller-preparacion-prueba-starbucks
 
 # Repaso pre-prueba HTML & CSS:

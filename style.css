@@ -1,0 +1,88 @@
+body{
+	border: 0;
+	padding:0;
+}
+
+.navbar{
+	
+	position: fixed;
+	border-top: solid 0.5vw green;
+	margin-top: 0;
+	width: 100%;
+	z-index: 1
+}
+
+.navbar__logo{
+
+	width: 3rem;
+}
+
+.navbar__lista{
+
+	font-size: 1rem;
+	margin-left: 50%;
+
+}
+
+.navbar__elemento{
+
+	text-decoration: none;
+	display: inline-block;
+	margin-left: 1vw;
+	margin-right: 1vw;
+
+}
+
+.navbar__link--color{
+
+	color: grey;
+}
+
+.banner__imagenes--tamaño{
+
+	width: 100%;
+	padding: 0px;
+	margin-bottom: 1vw;
+}
+
+.primera{
+
+	margin-top: 5rem;
+}
+
+
+.footer{
+
+	background-color: #e8e8e8;
+	border-bottom: 0.5vw solid black;
+	margin-top:0;
+	width: 100%;
+
+}
+
+.footer__rrss--icono1{
+
+	margin-top: 3rem;
+	width: 2rem;
+	margin-left: 49%;
+}
+
+.footer__rrss--icono2{
+
+	margin-top: 3rem;
+	width: 2rem;
+	
+}
+
+.footer__logo--tamano{
+
+	width: 3rem;
+	margin-left: 50%;
+	margin-top: 1rem;
+}
+
+.footer__llamado--texto{
+
+	text-align: center;
+	color:grey;
+}
